@@ -1,0 +1,35 @@
+{
+  "name": "dsh-evidence-loop",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "description": "证据驱动学习回路：提交后自动 AI 复盘，只有通过强引用校验的证据才计入完成度；保留每一版交付物、复盘与重做理由。",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./package.json": "./package.json"
+  },
+  "icon": "./icon.svg",
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "lib",
+    "locale/*.json",
+    "docs",
+    "icon.svg"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": []
+    }
+  }
+}

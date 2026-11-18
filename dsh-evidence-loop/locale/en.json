@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Evidence loop",
+    "description": "A learning loop that records what you changed and why: every submission is reviewed by AI against fixed dimensions with verbatim-quote checks, and only pass-audited topics count.",
+    "detail": "docs/DETAIL.md"
+  }
+}
