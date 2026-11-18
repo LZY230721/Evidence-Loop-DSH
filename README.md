@@ -1,4 +1,8 @@
 # 证据回路（Evidence Loop）
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4B32C3?style=for-the-badge&logo=deepseek&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 > 一个「先交证据、再谈掌握」的 DSH 插件：记录你**改了什么、为什么改、改对了没有**，而不是记录你「打卡了什么」。
 
