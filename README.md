@@ -242,3 +242,14 @@ node dsh-evidence-loop/test/coach.mjs      # 教练系统提示、按节点落�
 ## License
 
 MIT
+**1. 学习路径与建议节奏**
+![路径与节奏]<img width="3092" height="1964" alt="屏幕截图 2026-11-19 001214" src="https://github.com/user-attachments/assets/00ec3146-3422-4a5f-aa24-c8dd76f0a8b4" />
+
+**2. AI 伴随式教练**
+![教练对话]<img width="2020" height="1818" alt="屏幕截图 2026-11-19 001248" src="https://github.com/user-attachments/assets/15f4ece6-8386-4307-bf27-e15466b2ba3b" />
+
+**3. 结构化复盘与强引用校验**
+![复盘详情]<img width="2050" height="1878" alt="屏幕截图 2026-11-19 001357" src="https://github.com/user-attachments/assets/e2e2437c-5a7c-4996-a459-1fb99c521779" />
+
+**4. 数据可视化审计台**
+![审计台]<img width="2300" height="1892" alt="屏幕截图 2026-11-19 001421" src="https://github.com/user-attachments/assets/fea193b5-4cf8-4e3b-bc30-490cfaf1a740" />
