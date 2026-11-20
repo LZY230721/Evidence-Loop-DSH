@@ -1,6 +1,6 @@
 {
   "name": "dsh-evidence-loop",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "private": true,
   "type": "module",
   "description": "证据驱动学习回路：提交后自动 AI 复盘，只有通过强引用校验的证据才计入完成度；保留每一版交付物、复盘与重做理由。",
